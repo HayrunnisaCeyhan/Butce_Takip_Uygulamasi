@@ -35,4 +35,4 @@ Bu proje, Python programlama dilinin temel prensiplerini ve **Nesne Yönelimli P
 ![Harcama Dağılımı](images/pastagrafik.png)
 
 ### İşlem Takibi ve Limit Uyarıları
-![Tablo ve Uyarılar](images/limit.png.png)
+![Tablo ve Uyarılar](images/limit.png)
